@@ -1,0 +1,5 @@
+{
+  "name": "HGU News Assistant",
+  "description": "An Electron-based application for scraping HGU news, managing data with SQLite, and generating summaries using DeepSeek AI.",
+  "requestFramePermissions": []
+}
